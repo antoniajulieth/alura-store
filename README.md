@@ -9,9 +9,13 @@ Se evalúan distintos indicadores del desempeño de cada tienda, entre ellos:
 Ingresos totales
 
 Categorías de productos más y menos vendidas
+
 Calificaciones y reseñas de los clientes
+
 Productos con mayor y menor volumen de ventas
+
 Tiempo promedio de entrega
+
 Mapa de calor de ventas
 
 ## 2. Creación de visualizaciones
@@ -19,18 +23,25 @@ Mapa de calor de ventas
 Se utilizan diferentes tipos de gráficos para presentar los resultados de manera clara y comprensible. Entre ellos se incluyen:
 
 Gráficos de barras
+
 Gráficos circulares
+
 Mapas de calor
+
 Gráficos de dispersión
+
 Gráficos de violín
 
 ## 3. Recomendación final
 
 A partir del análisis realizado, se elabora una conclusión que responde a:
+
 ¿Qué tienda debería vender el Sr. Juan?
+
 ¿Qué justifican esa decisión según los datos?
 
 Autora:
+
 Antonia Mejía
 
 
